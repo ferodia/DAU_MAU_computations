@@ -14,4 +14,4 @@ Notebook file containing the following metrics:
 * PYSPARK_PYTHON=python
 
 ### Command
-bin/pyspark
+bin/pyspark  --packages com.databricks:spark-avro_2.11:3.1.0
